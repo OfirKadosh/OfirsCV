@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(230, 230, 225);
+}
+
+h1 {
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: darkturquoise;
+}
+
+p {
+    color: #303030;
+}
+
+ul {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(200, 200, 200);
+    width: 550px;
+}
+
+ol {
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(180, 180, 180);
+    width: 850px;
+}
+
+img {
+    height: 50px;
+    border-radius: 30%
+}
+
+.profile-pic{
+    height: 300px;
+}
