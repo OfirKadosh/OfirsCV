@@ -39,3 +39,10 @@ img {
 .profile-pic{
     height: 300px;
 }
+
+.projects{
+    li{
+        margin-right: 35px;
+    }
+    display:flex;
+}
